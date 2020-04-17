@@ -7,5 +7,5 @@ phases:
       - ./gradlew assembleDebug
 artifacts:
   files:
-     - './aws-device-farm-sample-app-for-android/app/build/outputs/**/*.apk'
+     - './app/build/outputs/**/*.apk'
   discard-paths: yes
